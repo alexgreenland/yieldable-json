@@ -38,8 +38,7 @@
     "README.md",
     "index.js",
     "yieldable-stringify.js",
-    "yieldable-parser.js",
-    "test/"
+    "yieldable-parser.js"
   ],
   "devDependencies": {
     "eslint": "^3.19.0",
