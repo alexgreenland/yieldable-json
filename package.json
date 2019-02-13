@@ -1,5 +1,5 @@
 {
-  "name": "yieldable-json",
+  "name": "@epi/yieldable-json",
   "version": "1.0.0",
   "main": "index.js",
   "description": "An asynchronous yieldable version of JSON.stringify and JSON.parse",
